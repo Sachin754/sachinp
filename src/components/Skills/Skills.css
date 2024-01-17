@@ -1,0 +1,81 @@
+.ski {
+    background-color: #009688;
+    width: 100%;
+    height: 106px;
+    margin-top: -10px;
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+    position: fixed;
+}
+
+.content {
+    margin: 20px;
+
+    .skill {
+        padding: 20px;
+        max-width: 800px;
+        width: auto;
+        background-color: aliceblue;
+        margin: auto;
+        margin-top: 50px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+
+    }
+}
+
+h1 {
+    color: white;
+    padding-left: 30px;
+    padding-top: 19px
+}
+
+.html {
+    border-bottom: solid;
+}
+
+.html5 {
+    display: grid;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.h2 {
+    color: #964B00;
+}
+
+.hmtljsx {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.h7 {
+    padding-left: 50px
+}
+
+.html-img {
+    width: 140px;
+    background-color: transparent;
+    padding-top: 10px
+}
+
+@media (max-width: 1000px) {
+    .icon {
+        color: white;
+        display: block;
+        margin: auto;
+        margin-right: 40px;
+        font-size: 25px;
+        padding-top: 15px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    .html5,
+    .hmtljsx {
+        display: inline-grid;
+    }
+}
