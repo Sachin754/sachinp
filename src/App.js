@@ -15,7 +15,6 @@ import NavBar from './components/NavBar/NavBar';
 
 
 function App() {
-  console.log(window.innerWidth)
 
   return (
     <div className="App">
@@ -92,7 +91,7 @@ function App() {
 <div className='display'>
     
 
-     {/* <Home/> */}
+     {window.location.pathname === '/index.html'&& <Home/> }
      
      <Routes>
             <Route path="/" element={<Home />} />
