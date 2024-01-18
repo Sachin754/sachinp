@@ -61,7 +61,7 @@ const NavBar = (props) => {
 
                 <div className='blog' style={{ marginLeft: '1em' }}>
                     <Link to="/blo" className="w3-bar-item w3-button">
-                        <i className="fas fa-blog" style={{ marginRight: '6.3px', color: '#ffeb3b ' }}></i> <span className="link-text">Free Work</span>
+                        <i className="fas fa-blog" style={{ marginRight: '6.3px', color: '#ffeb3b ' }}></i> <span className="link-text">WorkSpace</span>
                     </Link>
                 </div>
 

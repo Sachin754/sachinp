@@ -20,7 +20,7 @@ const Experience = () => {
                 <div className='rite'>
                     <div className='header' >
                         <h2 className='title'>BVM Infotech</h2>
-                        <p className='metaTitle'>Full Stack Developer (1/06/2022 To Present)</p>
+                        <p className='metaTitle'>Full Stack Developer (1/06/2019 To Present)</p>
                     </div>
                     <h5>Roles & Responsibility :</h5>
                     <ol>
@@ -44,10 +44,10 @@ const Experience = () => {
                 </div>
             </div>
 
-            <div className='content'>
+            {/* <div className='content'>
                 <div className='rite'>
                     <div className='header'>
-                        <h2 className='title'>BVM Infotech</h2>
+                        <h2 className='title'>Octopus Tech</h2>
                         <p className='metaTitle'>Associate Software Engineer (26/02/2020 To 25/4/2022)</p>
                     </div>
                     <h5>Roles & Responsibility :</h5>
@@ -66,7 +66,7 @@ const Experience = () => {
                         </li>
                     </ol>
                 </div>
-            </div>
+            </div> */}
             </div>
         </>
     )

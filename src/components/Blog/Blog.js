@@ -12,7 +12,7 @@ const Blog = () => {
       {window.innerWidth < 1000 && <NavBar setOpen={setOpen} open={open} />}
 
       <div className="pro">
-        <h1>BLOG</h1>
+        <h1>WORK SPACE(International Clients)</h1>
         <div className="Navbar__Link Navbar__Link-toggle icon" onClick={() => setOpen(!open)}>
           <i class="fas fa-bars"></i>
         </div>
@@ -109,7 +109,7 @@ const Blog = () => {
           </div>
 
 
-          <div className="content">
+          {/* <div className="content">
           <div className='scr'>
             <div className='proheader' >
               <h2>MACHINE EXICUTION SYSTEM (MES) :</h2>
@@ -132,9 +132,9 @@ const Blog = () => {
             <p >HTML, CSS, JavaScript, MUI, ReactJS, Webpack, npm, Git, AJAX, REST, Redux, Bitbucket, Azure,
               Nodejs, MySQL, Sequalize ORM, JIRA. </p>
           </div>
-          </div>
+          </div> */}
 
-          <div className="content">
+          {/* <div className="content">
           <div className='scr'>
             <div className='proheader' >
               <h2>WAREHOUSE MANAGEMENT SYSTEM (WMS):</h2>
@@ -157,8 +157,8 @@ const Blog = () => {
               AWS Lamda, AWS DynamoDB, Serverless, Nodejs, MongoDB, MySQL, Squalize ORM, JIRA. </p>
 
           </div>
-          </div>
-
+          </div> */}
+{/* 
           <div className="content">
           <div className='scr'>
             <div className='proheader' >
@@ -180,7 +180,7 @@ const Blog = () => {
             <p >HTML, CSS, JavaScript, ANTD, ReactJS, Webpack, npm, Git, AJAX, REST, Redux, Bitbucket, AWS Amplify,
               Serverless, Nodejs, MongoDB, JIRA.</p>
           </div>
-          </div>
+          </div> */}
 
           <div className="content" style={{paddingBottom:'50px'}}>
           <div className='scr' >

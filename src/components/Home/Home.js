@@ -41,9 +41,9 @@ const Home = () => {
       Be the Change that You Want To Be</h1> */}
           <div style={{ textAlign: 'center', paddingLeft: '60px', paddingRight: '60px', paddingTop: '20px', fontSize:'18px' }}>
             <h4>Front-end Development</h4>
-          <p>Proficient in HTML, CSS, and JavaScript frameworks such as React and Angular. I have a keen eye for creating responsive and visually appealing user interfaces that enhance the user experience. </p>
+          <p>Proficient in HTML, CSS, and JavaScript frameworks such as React and Nextjs. I have a keen eye for creating responsive and visually appealing user interfaces that enhance the user experience. </p>
           <h4 >Back-end Development</h4>
-          <p>Experienced in building scalable server-side applications using Node.js and Python (Django). I have a solid understanding of database design, RESTful API development, and server optimization.</p>
+          <p>Experienced in building scalable server-side applications using Node.js with Express.js. I have a solid understanding of database design, RESTful API development, and server optimization.</p>
           <h4 >Database Management</h4>
           <p> Skilled in working with various databases, including MongoDB, MySQL, and PostgreSQL. I ensure data integrity and efficiency in database operations.</p>
 
@@ -53,9 +53,9 @@ const Home = () => {
 
           <h4>Professional Accomplishments</h4>
 <p>
-            Successfully led and contributed to the development of [mention notable projects], resulting in [specific achievements, such as increased user engagement, improved performance, or successful project launches].
+            Successfully led and contributed to the development of projects, resulting in  increased user engagement, improved performance, or successful project launches.
             Proven track record of collaborating with cross-functional teams, including designers, product managers, and QA engineers, to deliver high-quality software solutions on time and within budget.
-            Passion and Approach:
+            
             I am passionate about staying up-to-date with the latest industry trends and technologies, ensuring that I bring innovative solutions to every project. My collaborative and solution-oriented approach allows me to tackle challenges with creativity and efficiency.
             </p>
           </div>

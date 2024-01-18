@@ -73,15 +73,11 @@ const Resume = () => {
           <dd>b). Percentage: 93.00%</dd>
 
           <h5>Experience:</h5>
-          <li> <b>RITE INFOTECH PVT. LTD.</b> </li>
-          <dd>a). Duration: 2 years (26/02/2020 to 25/05/2022)</dd>
-          <dd>b). Worked on: .Net, node js ReactJs , React native, MSSQL</dd>
-          <dd>b). Role: Associate Software Engineer</dd>
-
-          <li><b>Anzo Controls Pvt Ltd</b> </li>
+         
+          <li><b>BVM Infotech</b> </li>
           <dd>a). Worked on: React-Native,React Js,Nodejs, Azure, MSSQL</dd>
           <dd>b). Current Role: Full Stack Developer</dd>
-          <dd>b). Total Experience : 1 years(02/06/2022 to Current).</dd>
+          <dd>b). Total Experience : 5 years(02/06/2019 to Current).</dd>
 
           <h5>Project:</h5>
           <li> <b>Scara Robot UI & Delta Scara UI</b> </li>
